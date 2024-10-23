@@ -1,4 +1,5 @@
 Examples
+
 Here are some examples using the Python 3 script:
 To view detailed help for the Python 3 script.
 log_fetch.py -h
